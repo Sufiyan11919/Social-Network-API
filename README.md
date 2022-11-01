@@ -19,7 +19,7 @@ API routes tested using Thunder client
 ## GitHub Link
 - https://github.com/Sufiyan11919/Social-Network-API
 
-## Github Pages Link
+## Github PageLink
 - https://sufiyan11919.github.io/Social-Network-API/
 
 ## Walkthrough Video
