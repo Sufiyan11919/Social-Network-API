@@ -8,7 +8,7 @@ Project is done by using Node.js, mongodb, mongoose and express. for checking th
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Social-Network-API/main/Screenshots/Screenshot%20(231).png)
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Social-Network-API/main/screenshots/Screenshot%20(231).png)
 
 
 
