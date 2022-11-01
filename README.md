@@ -8,8 +8,8 @@ Project is done by using Node.js, mongodb, mongoose and express. for checking th
 
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Social-Network-API/main/Screenshots/Screenshot%20(231).png)
+
 
 
 
